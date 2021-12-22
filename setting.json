@@ -1,7 +1,7 @@
 {
-    "TOKEN":"",//input bot token
-    "laugh_pic":[
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97pAJnpPe9G9rTmzGJYhfm4lBWRtfvCnQcg&usqp=CAU",//meme storehouse
+    "TOKEN":"input bot token",
+    "meme_pic":[
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97pAJnpPe9G9rTmzGJYhfm4lBWRtfvCnQcg&usqp=CAU",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsx6-96ZskPttP3LXjh7YJk6-TwrGH3lRNrw&usqp=CAU",
                 "https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1625758692452.jpg",
                 "https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1639732741664.jpg",
@@ -11,6 +11,6 @@
                 "https://memes.tw/user-wtf/1639810876214.jpg",
                 "https://memes.tw/user-wtf/1639807893153.jpg"
             ],
-    "welcome":"",//welcome channel id
-    "leave":""//welcome channel id
+    "welcome":"input welcome channel id",
+    "leave":"input leave channel id"
 }
