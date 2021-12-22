@@ -1,2 +1,2 @@
 # ice_bot
-## A meme bot, but the meme is Chinese
+Have member remove/welcome mess
