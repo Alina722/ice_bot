@@ -1,2 +1,2 @@
 # ice_bot
-Have member remove/welcome mess
+Have member remove/welcome messang and meme command
