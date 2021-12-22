@@ -35,7 +35,7 @@ async def ping(ctx):
 #image
 @bot.command()
 async def meme(ctx):
-  image = random.choice(idate['laugh_pic'])
+  image = random.choice(idate['meme_pic'])
   await ctx.send(image)
 
 @bot.command()
