@@ -12,4 +12,5 @@ prefix = `!`
 1. `!ping`
 2. `!gamble`
 3. `!meme`
+
 if you like this discord bot give a star, thanks.
