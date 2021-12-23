@@ -8,7 +8,7 @@ it is a discord bot and I still developer it.
 4. ping command
 prefix = `!`
 ---
-command example
+## command example
 1. `!ping`
 2. `!gamble`
 3. `!meme`
