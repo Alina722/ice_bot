@@ -7,7 +7,6 @@ it is a discord bot and I still developer it.
 3. random number command
 4. ping command
 prefix = `!`
----
 ## command example
 1. `!ping`
 2. `!gamble`
