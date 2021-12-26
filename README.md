@@ -1,5 +1,5 @@
-## ice_bot
-### introduce
+## Ice_bot
+### Introduce
 it is a discord bot and I still developer it.
 ### Function
 1. meme command
@@ -7,7 +7,7 @@ it is a discord bot and I still developer it.
 3. random number command
 4. ping command
 prefix = `!`
-### command list
+### Command list
 1. `!ping`
 2. `!gamble`
 3. `!meme`
@@ -15,4 +15,4 @@ prefix = `!`
 You must remove `.vscode` file like it to  make sure it can function normally.
 
 ---
-#### if you like this discord bot give a star, thanks.
+#### If you like this discord bot give a star, thanks.
