@@ -1,7 +1,7 @@
 {
     "TOKEN":"input bot token",
     "meme_image":[
-                "input image that you want"
+                "input image or anything that you want"
             ],
     "welcome":"input welcome channel id",
     "leave":"input leave channel id"
