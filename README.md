@@ -15,4 +15,4 @@ prefix = `!`
 You must remove `.vscode` file like it to  make sure it can function normally.
 
 ---
-#### If you like this discord bot give a star, thanks.
+#### If you like this discord bot please give a star, thanks.
