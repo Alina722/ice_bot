@@ -22,6 +22,23 @@ async def on_member_remove(member):
 	channel = bot.get_channel(int(idate['leave']))
 	await channel.send(f'{member}sad for his remove')
 
+@bot.command()
+async def load(ctx, extension):
+	bot.load_extension(f'cmds.{extension}')
+	await ctx.send(f'load {extension} successful')
+
+@bot.command()
+async def unload(ctx, extension):
+	bot.unload_extension(f'cmds.{extension}')
+	await ctx.send(f'Un - load {extension} successful')
+
+@bot.command()
+async def reload(ctx, extension):
+	bot.load_extension(f'cmds.{extension}')
+	await ctx.send(f'RE - load {extension} successful')
+
+
+
 #online event
 @bot.event
 async def on_ready():
@@ -32,6 +49,4 @@ for filename in os.listdir('./cmds'):
 		bot.load_extension(f'cmds.{filename[:-3]}')
 
 if __name__ == "__main__":
-	pass
-
-bot.run(idate['TOKEN'])
+	bot.run(idate['TOKEN'])

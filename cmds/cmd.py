@@ -13,18 +13,18 @@ class Cmd(Cog_Extension):
     #Ping
     @commands.command()
     async def ping(self,ctx):
-        await self.ctx.send(f'ping::{round(self.bot.latency*1000)}(ms)')
+        await ctx.send(f'ping:{round(self.bot.latency*1000)}(ms)')
 
 #image
     @commands.command()
     async def meme(self,ctx):
         image = random.choice(idate['meme_image'])
-        await self.ctx.send(image)
+        await ctx.send(image)
 
     @commands.command()
     async def gamble(self,ctx):
         random_num = random.randint(0, 100)
-        await self.ctx.send(f'random:{random_num}')
+        await ctx.send(f'random:{random_num}')
 
 def setup(bot):
     bot.add_cog(Cmd(bot))
