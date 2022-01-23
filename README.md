@@ -1,6 +1,6 @@
 ## Ice_bot
 ### Introduce
-it is a discord bot and I still developer it.
+It is a discord bot and I still developer it.
 ### Function
 1. meme command
 2. member remove/join messang
@@ -12,7 +12,9 @@ prefix = `!`
 2. `!gamble`
 3. `!meme`
 ### Use reminder
-You must remove `.vscode` file like it to  make sure it can function normally.
+You have to move the `.vscode`(it is a debug setting) file to make sure it works
 
 ---
-#### If you like this discord bot please give a star, thanks.
+#### If you like this discord bot please <u>give a star</u> thank.
+
+
