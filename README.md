@@ -16,5 +16,6 @@ You have to move the `.vscode`(it is a debug setting) file to make sure it works
 
 ---
 #### If you like this discord bot please <u>give a star</u> thank.
+There is nothing spacial <3
 
 
